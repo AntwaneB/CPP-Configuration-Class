@@ -28,6 +28,7 @@ Code:
     }
 
 Output:
+
     Value of 'mybool' : '0'
     Value of 'myint' : '42'
     Value of 'mydouble' : '42.42'
