@@ -1,6 +1,7 @@
 ### Usage example
 
 Code:
+
     int main(void)
     {
     	Config	cfg;
