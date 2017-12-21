@@ -2,6 +2,19 @@
 
 This project is a small class designed during my 2nd year of studies (2015) that provides a super easy and convenient way to store and access configuration keys.
 
+It supports the following types:
+
+ - bool
+ - char
+ - short
+ - int
+ - long
+ - double
+ - float
+ - std::string
+
+And it is very easy to add new ones.
+
 ### Usage example
 
 Code:
