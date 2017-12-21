@@ -1,6 +1,8 @@
 ### C++ Configuration Class
 
-This project is a small class designed during my 2nd year of studies (2015) that provides a super easy and convenient way to store and access configuration keys.
+This project is a small class I designed as a side project during my 2nd year of studies (2015) and used throughout multiple C++ projects that provides a super easy and convenient way to store and access configuration keys.
+
+Since I came from a lot of PHP development, I wanted to have a class that would provide me the same flexibility and ease of use as a PHP array.
 
 It supports the following types:
 
