@@ -1,3 +1,7 @@
+### C++ Configuration Class
+
+This project is a small class designed during my 2nd year of studies (2015) that provides a super easy and convenient way to store and access configuration keys.
+
 ### Usage example
 
 Code:
